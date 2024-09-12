@@ -1,0 +1,2 @@
+Simply drop in your S/Mime Email Certificate files into this folder. This will allow you to sign/encrypt all of your out going Zen Cart email. 
+Nothing else to do as Zen Cart will automatically pick up the certificates.
